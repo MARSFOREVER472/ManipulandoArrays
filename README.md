@@ -7,3 +7,4 @@
 - **_Ejemplos de uso mediante métodos ```push()```, ```pop()```, ```shift()``` y ```unshift()``` en Javascript._**
 
 - **_Trabajando con Arrays y/o Arreglos utilizando Javascript!_**
+Cómo añadir o eliminar elementos/valores/números de un Array de Javascript! 
