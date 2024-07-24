@@ -6,6 +6,6 @@
 
 - **_Ejemplos de uso mediante métodos ```push()```, ```pop()```, ```shift()``` y ```unshift()``` en Javascript._**
 
-- **_Trabajando con Arrays y/o Arreglos utilizando Javascript!_**
+- **_Trabajando con Arrays y/o Arreglos utilizando Javascript_**
 
 - **_Cómo agregar o eliminar elementos, valores y/o números dentro de un arreglo utilizando las herramientas de Javascript!_**
