@@ -4,4 +4,4 @@
 
 ### **_Cómo utilizar los métodos ```pop()```, ```push()```, ```shift()``` y ```unshift()``` dentro de un archivo JavaScript:_**
 
-- **_Ejemplos de uso del métodos ```push()```, ```pop()```, ```shift()``` y ```unshift()``` en Javascript._**
+- **_Ejemplos de uso de métodos ```push()```, ```pop()```, ```shift()``` y ```unshift()``` en Javascript._**
