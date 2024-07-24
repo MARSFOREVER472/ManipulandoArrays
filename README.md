@@ -8,4 +8,4 @@
 
 - **_Trabajando con Arrays y/o Arreglos utilizando Javascript!_**
 
-- **_Cómo agregar o eliminar elementos, valores y/o números dentro de un arreglo usando Javascript!_**
+- **_Cómo agregar o eliminar elementos, valores y/o números dentro de un arreglo utilizando Javascript!_**
