@@ -6,4 +6,4 @@
 
 - **_Ejemplos de uso mediante métodos ```push()```, ```pop()```, ```shift()``` y ```unshift()``` en Javascript._**
 
-- _Trabajando con Arrays y/o Arreglos utilizando Javascript!_
+- **_Trabajando con Arrays y/o Arreglos utilizando Javascript!_**
