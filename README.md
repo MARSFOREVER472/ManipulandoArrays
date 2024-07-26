@@ -9,3 +9,5 @@
 - **_Trabajando con Arrays y/o Arreglos utilizando Javascript._**
 
 - **_Cómo agregar o eliminar elementos, valores y/o números dentro de un arreglo utilizando las herramientas de Javascript._**
+
+- Los Arrays son una de las estructuras de datos más importantes que podemos tener en un lenguaje de programación.
