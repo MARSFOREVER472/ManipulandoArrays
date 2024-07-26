@@ -12,4 +12,4 @@
 
 - **_Los Arrays son una de las estructuras de datos más importantes que podemos tener en un lenguaje de programación._**
 
-- _Con estos métodos podemos mutar/transformar los Arrays, añadiendo o eliminando/borrando un elemento/valor que exista en ese Array._
+- **_Con estos métodos podemos mutar/transformar los Arrays, añadiendo o eliminando/borrando un elemento/valor que exista en ese Array._**
