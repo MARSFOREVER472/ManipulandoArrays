@@ -42,3 +42,27 @@ console.log(array2);
 
 array2.pop();
 console.log(array2);
+
+// EL MÉTODO shift() ELIMINA EL PRIMER ELEMENTO DEL ARREGLO Y ÉSTE LO RETORNA.
+
+// TAMBIÉN MODIFICA LA LONGITUD DEL ARREGLO.
+
+let array3 = ['Miami', 44, 'London', 52];
+
+// SE PUEDE VER QUE, AL EJECUTAR EL MÉTODO shift(), HEMOS ELIMINADO EL TÉRMINO 'Miami' DENTRO DE ESTE ARREGLO.
+
+array3.shift();
+console.log(array3);
+
+array3.shift();
+console.log(array3);
+
+// OBSERVA COMO HEMOS PASADO DE UN ARREGLO ORIGINAL DE 4 ELEMENTOS A UN ARREGLO FINAL DE 2 ELEMENTOS.
+
+// SI HAS ENTENDIDO COMO FUNCIONA EL MÉTODO shift(), ENTONCES YA PODRÁS DEDUCIR CUÁL SERÁ EL FUNCIONAMIENTO DEL MÉTODO unshift()!
+
+// EL MÉTODO unshift() AGREGA 1 O MÁS ELEMENTOS AL INICIO DEL ARREGLO, Y ÉSTE DEVUELVE LA NUEVA LONGITUD DE DICHO ARREGLO.
+
+lastArray = [67, 25, "Hello", 88];
+lastArray.unshift("Hola");
+console.log(lastArray);
